@@ -1,6 +1,6 @@
-# React + Vite
+# React + Vite + Social Media App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React SPA App, includes Feature like Create Post, Home Post, Side Menu for Navigation, Header, Footer and Basic Routing
 
 Currently, two official plugins are available:
 
